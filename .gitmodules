@@ -8,3 +8,6 @@
 [submodule "8080-microservices-cleanarchitecture-ddd-saga-outboxkafka"]
 	path = 8080-microservices-cleanarchitecture-ddd-saga-outboxkafka
 	url = https://github.com/DatMV01/8080-microservices-cleanarchitecture-ddd-saga-outboxkafka.git
+[submodule "5931-large-scale-state-management-course-in-react-next-js"]
+	path = 5931-large-scale-state-management-course-in-react-next-js
+	url = https://github.com/DatMV01/5931-large-scale-state-management-course-in-react-next-js.git
