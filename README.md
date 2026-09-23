@@ -1,5 +1,4 @@
-git clone --recurse-submodules https://github.com/DatMV01/practice.git
-
+git clone --recurse-submodules https://github.com/DatMV01/datmv-practice.git
 
 git submodule foreach --recursive git remote -v
 
