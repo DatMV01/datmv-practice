@@ -11,3 +11,12 @@
 [submodule "5931-large-scale-state-management-course-in-react-next-js"]
 	path = 5931-large-scale-state-management-course-in-react-next-js
 	url = https://github.com/DatMV01/5931-large-scale-state-management-course-in-react-next-js.git
+[submodule "8513-next-amazona-v1"]
+	path = 8513-next-amazona-v1
+	url = https://github.com/DatMV01/8513-next-amazona-v1.git
+[submodule "8513-next-amazona-v2"]
+	path = 8513-next-amazona-v2
+	url = https://github.com/DatMV01/8513-next-amazona-v2.git
+[submodule "8513-next-amazona-v3"]
+	path = 8513-next-amazona-v3
+	url = https://github.com/DatMV01/8513-next-amazona-v3.git
