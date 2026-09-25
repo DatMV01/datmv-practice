@@ -23,3 +23,6 @@
 [submodule "7136-khoa-hoc-full-stack-development-voi-next-js-13"]
 	path = 7136-khoa-hoc-full-stack-development-voi-next-js-13
 	url = https://github.com/DatMV01/7136-khoa-hoc-full-stack-development-voi-next-js-13.git
+[submodule "7573-khoa-hoc-nextjs-firebase-9-tailwind-css-3-project-twitter-clone"]
+	path = 7573-khoa-hoc-nextjs-firebase-9-tailwind-css-3-project-twitter-clone
+	url = https://github.com/DatMV01/7573-khoa-hoc-nextjs-firebase-9-tailwind-css-3-project-twitter-clone.git
